@@ -8,3 +8,6 @@
 semmatweb/semmatweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<span>Favorite Project</span>
+<a href="https://github.com/semmatweb/Recharge-Card-Generator">Recharge Card Generator</a>
